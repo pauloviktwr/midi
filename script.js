@@ -1,7 +1,7 @@
 const key1Sound = new Audio('sound/audioKick.m4a')
 const key1 = document.querySelector('.key1')
 
-const key2Sound = new Audio('sound/sem-título.mp3')
+const key2Sound = new Audio('sound/charge.mp3')
 const key2 = document.querySelector('.key2')
 
 const key3Sound = new Audio('sound/laser.mp3')
