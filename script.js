@@ -10,7 +10,7 @@ const key3 = document.querySelector('.key3')
 const key4Sound = new Audio('sound/tick.mp3')
 const key4 = document.querySelector('.key4')
 
-const key5Sound = new Audio('sound/rail.mp3')
+const key5Sound = new Audio('sound/railmachinery.mp3')
 const key5 = document.querySelector('.key5')
 
 key1.addEventListener('click', (event) =>{
